@@ -17,6 +17,7 @@ public class Coletavel : MonoBehaviour
             texto_pontos.text = "Pontos: " + pontos.ToString();
             outro.transform.localScale = new Vector3(1.5f, 1.5f, 1.5f);
             Instantiate(efeito, transform.position, Quaternion.identity);
+            Destroy(gameObject);
         }
     }
     
