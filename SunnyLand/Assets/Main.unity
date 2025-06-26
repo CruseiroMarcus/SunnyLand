@@ -3239,7 +3239,7 @@ MonoBehaviour:
   gameManager: {fileID: 1146436014}
   efeitoDano: {fileID: 2353600328317590899, guid: ceec7516237b4104b94300043ca39784,
     type: 3}
-  danoCooldown: 1
+  danoCooldown: 7
 --- !u!61 &1402046319
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3632,7 +3632,7 @@ MonoBehaviour:
   gameManager: {fileID: 1146436014}
   efeitoDano: {fileID: 2353600328317590899, guid: ceec7516237b4104b94300043ca39784,
     type: 3}
-  danoCooldown: 1
+  danoCooldown: 7
 --- !u!61 &1522443753
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4205,7 +4205,7 @@ MonoBehaviour:
   gameManager: {fileID: 1146436014}
   efeitoDano: {fileID: 2353600328317590899, guid: ceec7516237b4104b94300043ca39784,
     type: 3}
-  danoCooldown: 1
+  danoCooldown: 7
 --- !u!61 &1712679209
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4481,7 +4481,7 @@ MonoBehaviour:
   gameManager: {fileID: 1146436014}
   efeitoDano: {fileID: 2353600328317590899, guid: ceec7516237b4104b94300043ca39784,
     type: 3}
-  danoCooldown: 1
+  danoCooldown: 7
 --- !u!61 &1764421493
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7521,7 +7521,7 @@ MonoBehaviour:
   gameManager: {fileID: 1146436014}
   efeitoDano: {fileID: 2353600328317590899, guid: ceec7516237b4104b94300043ca39784,
     type: 3}
-  danoCooldown: 1
+  danoCooldown: 7
 --- !u!61 &1910550619
 BoxCollider2D:
   m_ObjectHideFlags: 0
